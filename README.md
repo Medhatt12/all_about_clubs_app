@@ -1,16 +1,31 @@
 # all_about_clubs_app
 
-A new Flutter project.
+All about apps flutter app developer coding challenge. 
 
-## Getting Started
+This is an app that displays an up-to-date ranking of top European soccer teams;
+The ranking is based on market value.
 
-This project is a starting point for a Flutter application.
+The data is provided by an online json file.
 
-A few resources to get you started if this is your first Flutter project:
+# App consists of 2 screens: 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1- Clubs overview screen with 2 sorting options (toggle): Sorting by name ascending (default) and Sorting by club value in descending order.
+2- Club details screen.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Packages used
+
+Provider, Http
+
+# Time
+
+App took me 3.5 - 4 hours
+
+
+All about clubs app running on IOS simulator
+
+
+https://user-images.githubusercontent.com/55616007/163227489-3ead2abb-e79a-47b3-b845-e6e0fbd04e27.mp4
+
+
+
+
